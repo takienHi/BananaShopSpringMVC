@@ -17,7 +17,7 @@ Chức năng Cơ bản:
 
 Chức năng ADMIN:
 
-Thống kê số lượng bán ra, doanh thu của từng hãng
-Danh sách sản phẩm, tìm kiếm/lọc, thêm/sửa/xoá sản phẩm
-Danh sách đơn hàng, tìm kiếm/lọc, duyệt/huỷ đơn hàng
-Danh sách khách hàng, tìm kiếm/lọc, thêm/xoá/khoá khác hàn
+- Thống kê số lượng bán ra, doanh thu của từng hãng
+- Danh sách sản phẩm, tìm kiếm/lọc, thêm/sửa/xoá sản phẩm
+- Danh sách đơn hàng, tìm kiếm/lọc, duyệt/huỷ đơn hàng
+- Danh sách khách hàng, tìm kiếm/lọc, thêm/xoá/khoá khác hàn
