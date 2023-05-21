@@ -3,10 +3,10 @@
 
 Công nghệ sử dụng:
 
-java 
-SpringMVC
-Hibernate
-SQLServer
+- javaEE 
+- SpringMVC
+- Hibernate
+- SQLServer
 
 Chức năng Cơ bản:
 
