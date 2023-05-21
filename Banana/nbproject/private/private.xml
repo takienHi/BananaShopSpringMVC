@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/src/java/entities/Banner.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/src/java/controller/users/CheckOutController.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/src/java/controller/users/CustomerController.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/web/WEB-INF/jsp/users/layout/header.jsp</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/src/java/controller/users/ShopController.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/web/WEB-INF/jsp/users/index.jsp</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/web/WEB-INF/jsp/admin/product.jsp</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/src/java/model/ProductModel.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/web/WEB-INF/jsp/users/shop.jsp</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/web/WEB-INF/jsp/admin/layout/footer.jsp</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/web/WEB-INF/jsp/admin/employee.jsp</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/src/java/controller/users/LoginController.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/src/java/controller/admin/LoginAdminController.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Banana/src/java/controller/users/CartController.java</file>
+        </group>
+    </open-files>
+</project-private>
